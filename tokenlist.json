@@ -19,8 +19,8 @@
   "timestamp": "2020-09-06T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 42,
-      "address": "",
+      "chainId": 1,
+      "address": "0xca76BAa777d749De63Ca044853D22D56bC70bb47",
       "symbol": "FFYI",
       "name": "Fiscus Governance Coin",
       "decimals": 18,
@@ -30,8 +30,8 @@
       ]
     },
     {
-      "chainId": 42,
-      "address": "",
+      "chainId": 1,
+      "address": "0x021576770CB3729716CCfb687afdB4c6bF720CB6",
       "symbol": "uFFYI",
       "name": "Fiscus Coin",
       "decimals": 18,
